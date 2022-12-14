@@ -1,0 +1,4 @@
+outs:
+- md5: 629cae890c13a6d1f171834347442972
+  size: 24134158
+  path: pedestrian_detection.onnx
