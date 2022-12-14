@@ -1,0 +1,4 @@
+outs:
+- md5: ea918fde9fc540b82f70870a11aab2c4
+  size: 6858968
+  path: vehicle_attribute_wo_bike_color.onnx

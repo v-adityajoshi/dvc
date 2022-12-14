@@ -1,0 +1,4 @@
+outs:
+- md5: b81da5b1e49f49c80229dd0a8600943c
+  size: 44954860
+  path: seatbelt.onnx

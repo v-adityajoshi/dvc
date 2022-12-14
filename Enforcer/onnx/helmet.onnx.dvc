@@ -1,0 +1,4 @@
+outs:
+- md5: ea96166599e56728bede67b8d26b657d
+  size: 44954860
+  path: helmet.onnx

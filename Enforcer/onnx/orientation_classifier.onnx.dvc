@@ -1,0 +1,4 @@
+outs:
+- md5: f00e8f43baa20a294b539a3ee6874719
+  size: 44954860
+  path: orientation_classifier.onnx
