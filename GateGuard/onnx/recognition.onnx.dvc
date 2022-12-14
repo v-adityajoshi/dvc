@@ -1,0 +1,4 @@
+outs:
+- md5: 4514a4d0cb32aca0ceb971dc11a5de38
+  size: 20161082
+  path: recognition.onnx

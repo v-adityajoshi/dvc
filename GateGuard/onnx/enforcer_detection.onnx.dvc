@@ -1,0 +1,4 @@
+outs:
+- md5: 3b301eb71f205affe5c677149c38966f
+  size: 20144669
+  path: enforcer_detection.onnx

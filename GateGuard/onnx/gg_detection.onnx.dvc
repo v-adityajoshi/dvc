@@ -1,0 +1,4 @@
+outs:
+- md5: 6cd81b1acec28b030c03a34c4fd4127c
+  size: 23557214
+  path: gg_detection.onnx
