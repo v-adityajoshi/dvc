@@ -1,0 +1,7 @@
+/detection.onnx
+/helmet.onnx
+/orientation_classifier.onnx
+/pedestrian_detection.onnx
+/recognition.onnx
+/seatbelt.onnx
+/vehicle_attribute_wo_bike_color.onnx
