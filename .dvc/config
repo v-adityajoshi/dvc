@@ -1,0 +1,5 @@
+[core]
+    remote = model
+['remote "model"']
+    url = ssh://megatron@192.168.0.142/filer1/models-dvc
+    ask_password = true
